@@ -90,7 +90,7 @@ def GetListOfNotes_From_AI(text: str, page_number: int) -> list:
     """
     #Prepare prompt
     prompt = (
-    "Generate as many high-quality flashcards as possible from the given text.\n"
+    "Generate high-quality flashcards from the given text by detecting important keywords, defining them, and creating additional flashcards that explain key concepts, relationships, and applications of those keywords.\n"
     "Ensure that each flashcard is clear, concise, and directly relevant to the content.\n"
     "\n"
     "### Flashcard Format:\n"

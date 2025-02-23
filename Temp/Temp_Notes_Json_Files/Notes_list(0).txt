@@ -1,0 +1,23 @@
+```json
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What are the main topics mentioned in the text?","Back": "fee JS, Database Connectivity, C#, yice, performance, and structure"}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What does 'GW' likely refer to?","Back": "Not enough information to answer this"}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is mentioned in the context of performance?","Back": "performance J! Agu48 pb & jist5!"}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is the relationship between 'chil' and 'sale'?","Back": "chil o patel! claic chil y cil) 5 ple Sis dale col 4 Sa lath"}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What kind of connections are described?","Back": "Database Connectivity"}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is mentioned regarding the structure?","Back": "structurecf jh  chil"}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What programming language is explicitly mentioned?","Back": "C#"}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What appears to relate to a person's name or structure?","Back": "Guptha 5S"}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What are the possible topics of the discussion?","Back": "fee JS, Database Connectivity, C#, yice, performance, and structure"}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What might 'yice' refer to?","Back": "Unclear from the context. Requires more information"}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is the subject of the first sentence?","Back": "fee JS"}}
+```

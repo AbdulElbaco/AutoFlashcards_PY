@@ -1,0 +1,17 @@
+```json
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is ADO.NET?", "Back": "ADO.NET (ActiveX Data Objects .NET) is provided by Microsoft as a part of the .NET Framework."}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is the primary purpose of ADO.NET?", "Back": "To enable developers to interact with relational data in a consistent and efficient manner."}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What does ADO.NET provide to developers?", "Back": "A set of classes and components to connect to databases, execute queries, retrieve and manipulate data, and perform other data-related operations."}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What types of .NET applications can ADO.NET be used to develop?", "Back": "Any kind of .NET application."}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "Which module of the .NET Framework is used to establish a connection between applications and data sources?", "Back": "ADO.NET."}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What are some examples of data sources that ADO.NET can connect to?", "Back": "SQL Server and XML."}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is ADO.NET used for?", "Back": "To connect, retrieve, insert, and delete data."}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "Name some of the .NET applications where ADO.NET can be used.", "Back": "ASP.NET Web Form Applications, Windows Applications, ASP.NET MVC Application, Console Applications, ASP.NET Web API Applications, ASP.NET Core Applications"}}
+```

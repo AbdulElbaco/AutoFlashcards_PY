@@ -151,10 +151,12 @@ def main():
         cleanup_temp_files()
         
         # Input PDF file path
-        input_file = r"C:\Users\ccxvc\Downloads\sample-1-4.pdf"
+        input_file = r"C:\Users\ccxvc\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\الكورس_السادس_سي++_المستوى_الثاني_.pdf"
         
         # Step 2: Prepare PDF
         num_pages = prepare_pdf(input_file)
+        ##For debugging only
+        num_pages = 6
         
         # Step 3: Extract text from pages
         extract_text_from_pages(num_pages)
@@ -167,37 +169,6 @@ def main():
         notes_list = generate_anki_notes(num_pages)
         
         # Step 6: Add notes to Anki
-        note_str1 = '''
-{
-            "deckName": "TempDeck",
-            "modelName": "Basic",
-            "fields": {
-                "Front": "What is AnkiConnect?",
-                "Back": "AnkiConnect is a plugin for Anki that allows external applications to interact with Anki using a simple HTTP API."
-            }
-            }'''
-        strings = ['''
-{
-            "deckName": "TempDeck",
-            "modelName": "Basic",
-            "fields": {
-                "Front": "Who is an Engineer?",
-                "Back": "An Engineer is a person who builds things."
-            }
-            }''', '''
-            {
-            "deckName": "TempDeck",
-            "modelName": "Basic",
-            "fields": {
-                "Front": "What is a Computer?",
-                "Back": "A computer is an electronic device that processes data."
-            }
-            }''']
-
-        note_str2 = strings[0]
-
-        list = [note_str1, note_str2, strings[1]]
-
         addnotes(notes_list)
         
         # Step 7: Cleanup

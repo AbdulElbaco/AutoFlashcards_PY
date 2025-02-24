@@ -1,9 +1,16 @@
 ```json
-{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What are some database technologies mentioned?","Back": "Oracle Js SQL Server J! 5 32 Ulla Ge ES El st) ae eel by sti Aas ado. net JI; ox9 my sql Jls mongo database 5 database"}}
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is the purpose of a breakpoint?","Back": "To stop the execution of a program at a specific point for debugging."}}
 $$$$
-{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is a way to connect to a database mentioned?","Back": "ADO.NET"}}
+```json
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is likely used to set breakpoints?","Back": "The text mentions debugging tools and settings, implying breakpoints are set within a debugger."}}
 $$$$
-{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "Which databases can you connect to using the listed method?","Back": "Microsoft (implied from the text: . B Microsoft ADO.NET)"}}
+```json
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is the function key potentially associated with debugging?","Back": "F5 is mentioned, which likely triggers a debugging action like stepping or running to a breakpoint."}}
 $$$$
-{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What are some database technologies mentioned in the context of connection methods?","Back": "ADO.NET and implied 'Others'"}}
+```json
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "How is a debugging mode indicated?","Back": "The text mentions the \"Debugging mood,\" the context suggests the environment switches to this mode."}}
+$$$$
+```json
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What actions are associated with the use of breakpoints?","Back": "Halting the program, inspecting variables, and stepping through code."}}
+$$$$
 ```

@@ -44,7 +44,8 @@ def PrepareNotes(notes):
         #Temp solution to fix the issue caused by the dummb Google AI model 
         note = note.replace("json", "")
         note = note.replace("\n", "")
-        notes_list.append(note)
+        if note != "":
+            notes_list.append(note)
     
     return notes_list
             

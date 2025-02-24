@@ -1,22 +1,23 @@
-What is ADO.NET?
+Lesson #04 - Autos Window
 
-ADO.NET (ActiveX Data Objects .NET) is provided by Microsoft as a part of the .NET Framework.
+G!5lesd! sab 2 4 Unall #
 
-It is designed to enable developers to interact with relational data in a consistent and efficient manner.
+cole BLM ybgs aug gd olip! Jul B38 (8 LS I pill 2d gs Autos
 
-ADO.NET provides a set of classes and components that allow developers to connect to databases, execute queries, retrieve and manipulate data, and perform other data-related operations.
+33 a \
 
-ADO.NET is a powerful and flexible technology for accessing and manipulating data in .NET applications, providing efficient and scalable data access capabilities.
+Lite Jas 28 a) Lill 34! 3 Autos
 
-ADO.NET is a module of the .NET Framework which is used to establish a connection between applications and data sources. Data sources can be such as SQL Server and XML. ADO.NET consists of classes that can be used to connect, retrieve, insert, and delete data.
+AM Co) glaSM asl LaLa Jas al 15)
 
-What types of Applications use ADO.NET?
+Debugging mood cle acl! Jet
 
-ADO.NET can be used to develop any kind of .NET application. The following are some of the .NET applications where you can use ADO.NET Data Access Technology to interact with a data source.
+Las All Ge ial t
 
-1. ASP.NET Web Form Applications
-2. Windows Applications
-3. ASP.NET MVC Application
-4. Console Applications
-5. ASP.NET Web API Applications
-6. ASP.NET Core Applications
+(Debug) cg stall 2
+
+(Windows) 55!  4
+
+ai
+
+(Autos) 44!  hn

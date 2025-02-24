@@ -20,7 +20,7 @@ def get_clients_response(prompt: str):
     )
 
     completion = client.chat.completions.create(
-  model=Global_Variables.LLM_AI_model,
+  model=Global_Variables.Gemini_2_Flash_Lite,
   messages=[
     {
       "role": Global_Variables.role,
@@ -103,6 +103,13 @@ def GetListOfNotes_From_AI(text: str, page_number: int) -> list:
     "- **Content Quality:** The questions should be meaningful and structured to promote effective learning.\n"
     "- **Avoid extraneous content:** Do not include comments, explanations, or any additional text outside the flashcards.\n"
     "- **Textual Focus:** Ensure the 'Front' field contains a well-formed question or prompt, and the 'Back' field contains a precise answer extracted from the text.\n"
+    "\n"
+    "### When not to generate flashcards:\n"
+    "- If the text is too short or lacks meaningful content.\n"
+    "- If the text is not in a suitable format for flashcard generation.\n"
+    "\n"
+    "### What to do if no flashcards are generated:\n"
+    "- If no flashcards are generated, please return the Sperator only.\n"
     "\n"
     f"### Text to Process:\n{text}"
 )

@@ -1,0 +1,17 @@
+```json
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is Quick Watch?","Back": "A debugging tool."}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is the shortcut for Quick Watch?","Back": "Shift + F9"}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What can you add to Quick Watch?","Back": "Variable, Array, Function, Expression"}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What does the example `arr1[9]` represent in the context of the lesson?","Back": "A Function"}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is the significance of the address of an array element?","Back": "It is the location in memory where the element is stored."}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is the purpose of a `Function` in relation to `arr` and `arr1`?","Back": "To access (address) of the `arr` element (e.g. `Gel arr1`)"}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is `Pointers` connected with?","Back": "Function"}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What does `MySum(a, b)` represent?","Back": "A custom function example."}}
+```

@@ -1,0 +1,10 @@
+```json
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is the focus of Lesson #06?", "Back": "Changing Values In Debugging Mode"}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What are some keywords or concepts related to debugging mode (based on the snippet)?", "Back": "Debugging mood, Autos, QuickWatch"}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What does the term 'debugging mood' imply in the context described in the text?", "Back": "A state or mode used for debugging purposes, allowing examination and modification of variables"}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "Based on the text, what might 'Autos' and 'QuickWatch' be?", "Back": "Tools or features available within the debugging environment (possibly windows/panes)."}}
+$$$$
+```

@@ -16,10 +16,11 @@ Note:
 """
 
 # AI Service Configuration
-LLM_AI_model: str = "google/gemini-2.0-flash-lite-preview-02-05:free"  # AI model identifier
+Gemini_2_Flash_Lite: str = "google/gemini-2.0-flash-lite-preview-02-05:free"  # AI model identifier
+DeepSeek_V3: str = "deepseek/deepseek-chat:free"  # AI model identifier
 role: str = "user"  # User role for AI interactions
 url: str = "https://openrouter.ai/api/v1/chat/completions"  # API endpoint URL
-openrouterAPI_Key: str = "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"  # API authentication key
+openrouterAPI_Key: str = "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"  # API authentication key
 
 # External Tools Configuration
 tesseract_cmd: str = r"C:/Program Files/Tesseract-OCR/tesseract.exe"  # Tesseract OCR path

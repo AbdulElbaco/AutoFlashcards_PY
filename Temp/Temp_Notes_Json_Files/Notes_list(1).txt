@@ -1,5 +1,8 @@
 ```json
-{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is XML?","Back": "extensible markup language"}}
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is a breakpoint in the context of C++ debugging?","Back": "A breakpoint is a designated point in the code where program execution can be paused."}}
 $$$$
-{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What is ADO.NET?","Back": "ACTIVE X DATA OBJECT"}}
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What does the text mention about memory values?","Back": "The text mentions memory values in relation to breakpoints, showing the state of variables at that point."}}
+$$$$
+{"deckName": "TempDeck","modelName": "Basic","fields": {"Front": "What kind of errors are mentioned in the text?","Back": "A runtime error is referenced."}}
+$$$$
 ```
